@@ -42,7 +42,7 @@
 
 ## 🌐 Contato:
 
-- **LinkedIn**: [Stanly Almeida Do Carmo](https://www.linkedin.com/in/seu-perfil-linkedin)
+- **LinkedIn**: [Stanly Almeida Do Carmo](https://www.linkedin.com/in/stanly-almeida-do-carmo-5a8b79247/)
 - **E-mail**: stanlyalmeidabr@gmail.com
 
 ---
