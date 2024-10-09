@@ -4,11 +4,11 @@
 
 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** no IFS (Instituto Federal de Sergipe), com início em 01/2024 e previsão de conclusão em 12/2026.
 
-💻 Tenho especialização em **Backend** através de bootcamps na DIO e base em **Gestão de Projetos**, adquirida em cursos como **Gestão de Empreendimentos Econômicos Solidários**. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos o meu foco maior é em JAVA, Mais busco aprender mais a logica da programação/ciência da computação para que eu possa programar de fato e assim me possibilitando aprender a sintaxe de qualquer linguagem e programar na mesma.
+💻 Tenho especialização em **Backend** através de bootcamps na DIO e base em **Gestão de Projetos**, adquirida em cursos como **Gestão de Empreendimentos Econômicos Solidários**. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos. **Busco aprender mais a lógica da programação e a ciência da computação para que eu possa programar de fato e, assim, me possibilitar a aprender a sintaxe de qualquer linguagem e programar na mesma.** mas estou explorando também a área de cibersegurança com o objetivo de unir essas especializações e desenvolver soluções mais seguras
 
 💼 Experiência com desenvolvimento de scripts em **LUA** para o jogo Roblox e em projetos acadêmicos utilizando **Java** e **C++**.
 
-🎯 Meu objetivo é encontrar uma oportunidade como **Desenvolvedor de Sistemas**, contribuindo com minhas habilidades técnicas e de comunicação para trabalhar em equipe de maneira eficiente.
+🎯 Meu objetivo é encontrar uma oportunidade como Desenvolvedor de Sistemas, contribuindo com minhas habilidades técnicas e de comunicação para trabalhar em equipe de maneira eficiente, além de me aprofundar no campo da cibersegurança.
 
 ---
 
