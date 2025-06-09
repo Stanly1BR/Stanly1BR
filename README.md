@@ -4,7 +4,10 @@
 
 🎓 Atualmente cursando 3 período em **Análise e Desenvolvimento de Sistemas** no IFS (Instituto Federal de Sergipe), com início em 01/2024 e previsão de conclusão em 04/2027.
 
-💻 Tenho especialização em **Backend** através de bootcamps na DIO e base em **Gestão de Projetos**, adquirida em cursos como **Gestão de Empreendimentos Econômicos Solidários**. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos. **Busco aprender mais a lógica da programação e a ciência da computação para que eu possa programar de fato e, assim, me possibilitar a aprender a sintaxe de qualquer linguagem e programar na mesma.** Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(SCRUM), P.O.O, A.O.O (UML), além de experiências teoricas em Interação Humano-Computador, Engenharia/Qualidade de Software, Redes de Computadores  estou explorando também a área de Dados.
+💻 Tenho especialização em **Backend** através de bootcamps na DIO e base em **Gestão de Projetos**, adquirida em cursos como **Gestão de Empreendimentos Econômicos Solidários**.
+Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos.
+**Busco aprender mais a lógica da programação e a ciência da computação para que eu possa programar de fato e, assim, me possibilitar a aprender a sintaxe de qualquer linguagem e programar na mesma.**
+Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(SCRUM), P.O.O, A.O.O (UML), além de experiências teoricas em Interação Humano-Computador UX UI, Engenharia/Qualidade de Software, Redes de Computadores  estou explorando também a área de Dados.
 
 💼 Experiência com desenvolvimento de scripts em **LUA** para o jogo Roblox e em projetos acadêmicos utilizando **Java - Spring**.
 
@@ -24,27 +27,39 @@
 
 ### 🖥️ Linguagens de Programação:
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) **Java**
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C++**
 
 ### 🛠️ Frameworks e Ferramentas:
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) **Spring**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) **Git**
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub**
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) **Jira**
+- ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) **Intellij IDEA**
 - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) **Eclipse**
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) **Visual Studio Code**
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) **Maven**
 
 ### 🗄️ Banco de Dados:
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white) **SQL**
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL**
+ -![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **SQL SERVER**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL**
 
 ### 💼 Experiência Profissional:
-- **Desenvolvedor de Scripts em LUA** no jogo Roblox (2020 - 2023): Criação de funcionalidades no ambiente Roblox utilizando a linguagem LUA.
-- **Desenvolvedor Java e Spring** - IFS Aracaju (2024 - 2026): Projetos acadêmicos de desenvolvimento de software com Java e Spring Boot.
 
+- **Trainee de Auxiliar da COLINF** | IFS - Aracaju (2025 - Atualmente):
+Suporte técnico e operacional nos laboratórios de informática, garantindo o funcionamento de hardware e software. 
+Apoio a alunos e professores no uso dos recursos tecnológicos disponíveis.
+  
+- **Desenvolvedor Java e Spring** - IFS Aracaju (2024 - 2027):
+-  Projetos acadêmicos de desenvolvimento de software com Java e Spring Boot.
+
+- **Desenvolvedor de Scripts em LUA** no jogo Roblox (2020 - 2023):
+-  Criação de funcionalidades no ambiente Roblox utilizando a linguagem LUA.
 ---
 
 ## 🌐 Contato:
 
-- **LinkedIn**: [Stanly Almeida Do Carmo](https://www.linkedin.com/in/stanly-almeida-do-carmo-5a8b79247/)
+- **LinkedIn**: [Stanly Almeida Do Carmo](https://www.linkedin.com/in/stanly-almeida-do-carmo/)
 - **E-mail**: stanlyalmeidabr@gmail.com
 
 ---
