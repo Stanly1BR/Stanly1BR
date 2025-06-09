@@ -41,7 +41,7 @@ Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(
 ### 🗄️ Banco de Dados:
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white) **SQL**
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL**
- -![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **SQL SERVER**
+-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **SQL SERVER**
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL**
 
 ### 💼 Experiência Profissional:
