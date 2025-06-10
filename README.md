@@ -15,11 +15,13 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>>Mais Informações</b>
+        <b>Mais Informações</b>
       </samp>
   </summary>
   
   <!-- CONTEÚDO ESCONDIDO -->
+
+<div align="left">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0D2&width=500&height=80&lines=Ol%C3%A1%2C+Me+chamo+STANLY+ALMEIDA+DO+CARMO)](https://git.io/typing-svg)
 
@@ -95,6 +97,7 @@ Apoio a alunos e professores no uso dos recursos tecnológicos disponíveis.
 
 👨‍💻 Apaixonado por tecnologia e aprendizado contínuo. Sinta-se à vontade para explorar meus projetos e colaborar!
 
+</div>
 </details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
