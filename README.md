@@ -1,4 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F742&width=435&lines=Ol%C3%A1%2C+Olá,+Me+chamo+Stanly+Almeida+Do+Carmo)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=60&lines=Ol%C3%A1%2C+Me+chamo+STANLY+ALMEIDA+DO+CARMO)](https://git.io/typing-svg)
 
 ## Sobre Mim
 
@@ -58,3 +60,5 @@ Apoio a alunos e professores no uso dos recursos tecnológicos disponíveis.
 ---
 
 👨‍💻 Apaixonado por tecnologia e aprendizado contínuo. Sinta-se à vontade para explorar meus projetos e colaborar!
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
