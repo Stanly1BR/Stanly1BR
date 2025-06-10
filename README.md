@@ -21,9 +21,10 @@
   
   <!-- CONTEÚDO ESCONDIDO -->
 
-<div align="left">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0D2&width=500&height=80&lines=Ol%C3%A1%2C+Me+chamo+STANLY+ALMEIDA+DO+CARMO)](https://git.io/typing-svg)
+
+<div align="left">
 
 ## Sobre Mim
 
