@@ -72,8 +72,9 @@ Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(
 
 ## 🚀 Habilidades e Proficiências
 
+
 ### 🖥️ Linguagens de Programação:
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) **Java**
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### 🛠️ Frameworks:
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
@@ -85,6 +86,7 @@ Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(
 
 ### 🗄️ Banco de Dados:
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white) - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) - ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+
 
 ### 💼 Experiência Profissional:
 
