@@ -1,5 +1,28 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg4Zjl1azQ4dGxuZnFrN3h2b2NwbXN6eGZmZWx0aG51ajY5a2tpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gw3IWyGkC0rsazTi/giphy.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/kami_♡-black" />
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Eu+sou+Desenvolvedor+Back-End;Seja+Bem-Vindo!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>>Mais Informações</b>
+      </samp>
+  </summary>
+  
+  <!-- CONTEÚDO ESCONDIDO -->
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0D2&width=500&height=80&lines=Ol%C3%A1%2C+Me+chamo+STANLY+ALMEIDA+DO+CARMO)](https://git.io/typing-svg)
 
 ## Sobre Mim
@@ -73,5 +96,7 @@ Apoio a alunos e professores no uso dos recursos tecnológicos disponíveis.
 ---
 
 👨‍💻 Apaixonado por tecnologia e aprendizado contínuo. Sinta-se à vontade para explorar meus projetos e colaborar!
+
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
