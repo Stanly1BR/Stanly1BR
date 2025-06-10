@@ -1,4 +1,4 @@
-# Olá, eu sou Stanly Almeida Do Carmo 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F742&width=435&lines=Ol%C3%A1%2C+sou+Stanly+Almeida+Do+Carmo)](https://git.io/typing-svg)
 
 ## Sobre Mim
 
@@ -44,10 +44,10 @@ Suporte técnico e operacional nos laboratórios de informática, garantindo o f
 Apoio a alunos e professores no uso dos recursos tecnológicos disponíveis.
   
 - **Desenvolvedor Java e Spring** - IFS Aracaju (2024 - 2027):
--  Projetos acadêmicos de desenvolvimento de software com Java e Spring Boot.
+  Projetos acadêmicos de desenvolvimento de software com Java e Spring Boot.
 
 - **Desenvolvedor de Scripts em LUA** no jogo Roblox (2020 - 2023):
--  Criação de funcionalidades no ambiente Roblox utilizando a linguagem LUA.
+  Criação de funcionalidades no ambiente Roblox utilizando a linguagem LUA.
 ---
 
 ## 🌐 Contato:
@@ -57,14 +57,4 @@ Apoio a alunos e professores no uso dos recursos tecnológicos disponíveis.
 
 ---
 
-👨‍💻 Apaixonado por tecnologia e aprendizado contínuo. Sinta-se à vontade para explorar meus projetos e colaborar!## Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Apaixonado por tecnologia e aprendizado contínuo. Sinta-se à vontade para explorar meus projetos e colaborar!
