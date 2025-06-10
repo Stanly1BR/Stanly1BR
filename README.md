@@ -1,9 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
+
 <div align="center">
   <img src="https://media1.tenor.com/m/GCwCbrF6PdQAAAAC/ch.gif" width="200" alt="Ch GIF">
 </div>
 
+<div align="center">
+  <p>Contate-me:</p>
+  <a href="mailto:stanlyalmeidabr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="E-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/stanly-almeida-do-carmo/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn">
+  </a>
+</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Eu+sou+Desenvolvedor+Back-End;Seja+Bem-Vindo!" alt="Typing SVG"/>
