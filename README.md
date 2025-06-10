@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F742&width=435&lines=Ol%C3%A1%2C+sou+Stanly+Almeida+Do+Carmo)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F742&width=435&lines=Ol%C3%A1%2C+Olá,+Me+chamo+Stanly+Almeida+Do+Carmo)](https://git.io/typing-svg)
 
 ## Sobre Mim
 
