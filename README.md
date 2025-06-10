@@ -3,9 +3,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg4Zjl1azQ4dGxuZnFrN3h2b2NwbXN6eGZmZWx0aG51ajY5a2tpNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gw3IWyGkC0rsazTi/giphy.gif" width="200">
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Eu+sou+Desenvolvedor+Back-End;Seja+Bem-Vindo!" alt="Typing SVG"/>
