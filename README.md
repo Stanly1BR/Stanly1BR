@@ -17,21 +17,28 @@ Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(
 
 ---
 
-<h1 align="center"></h1>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stanly1BR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats do Stanly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanly1BR&theme=tokyonight&layout=compact&custom_title=Principais+Linguagens&langs_count=8" alt="Top Langs do Stanly"/>
+</div>
 
-<h2 align="center"> 🔄 Status </h2><br>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stanly1BR&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></div>
-
-<h1 align="center"></h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Stanly1BR/Stanly1BR/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Stanly1BR/Stanly1BR/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Stanly1BR/Stanly1BR/blob/output/github-snake.svg" />
+  </picture>
+</div>
 
 ## 🚀 Habilidades e Proficiências
 
 ### 🖥️ Linguagens de Programação:
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) **Java**
 
-### 🛠️ Frameworks e Ferramentas:
+### 🛠️ Frameworks:
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
+
+### 🛠️ Ferramentas:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
   
  - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) - ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) - ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
