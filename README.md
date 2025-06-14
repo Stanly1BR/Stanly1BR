@@ -55,7 +55,7 @@ Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(
 
 <div>
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Stanly1BR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats do Stanly"/>
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanly1BR&theme=tokyonight&custom_title=Principais+Linguagens&langs_count=5" alt="Top Langs do Stanly"/>
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanly1BR&theme=tokyonight&custom_title=Principais+Linguagens&langs_count=8" alt="Top Langs do Stanly"/>
 </div>
 <br clear="both">
 
