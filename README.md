@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/GCwCbrF6PdQAAAAC/ch.gif" width="200" alt="Ch GIF">
-</div>
+<p align="center">
+  <img src="Imagens/Semttulo.gif" width="200" alt="Meu GIF">
+</p>
 
 <div align="center">
   <p>Contate-me:</p>
