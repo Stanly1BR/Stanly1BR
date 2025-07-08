@@ -47,7 +47,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habili
 **Busco aprender mais a lógica da programação e a ciência da computação para que eu possa programar de fato e, assim, me possibilitar a aprender a sintaxe de qualquer linguagem e programar na mesma.**
 Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(SCRUM), P.O.O, A.O.O (UML), além de experiências teoricas em Interação Humano-Computador UX UI, Engenharia/Qualidade de Software, Redes de Computadores  estou explorando também a área de Dados.
 
-💼 Experiência com desenvolvimento de scripts em **LUA** para o jogo Roblox e em projetos acadêmicos utilizando **Java - Spring**.
+💼 Experiência com desenvolvimento de scripts em **LUA** para o jogo Roblox e em projetos acadêmicos utilizando **Java - Spring e Python**.
 
 🎯 Meu objetivo é encontrar uma oportunidade como Desenvolvedor Back_End e Dados, além de me aprofundar nos estudos.
 
