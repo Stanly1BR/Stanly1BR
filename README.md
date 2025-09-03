@@ -40,16 +40,14 @@
 
 ## Sobre Mim
 
-🎓 Atualmente cursando 3 período em **Análise e Desenvolvimento de Sistemas** no IFS (Instituto Federal de Sergipe), com início em 01/2024 e previsão de conclusão em 04/2027.
+🎓 Atualmente cursando 4 período em **Análise e Desenvolvimento de Sistemas** no IFS (Instituto Federal de Sergipe), com início em 01/2024 e previsão de conclusão em 04/2027.
 
 💻 Tenho especialização em **Backend** através de bootcamps na DIO e base em **Gestão de Projetos**, adquirida em cursos como **Gestão de Empreendimentos Econômicos Solidários**.
 Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos.
 **Busco aprender mais a lógica da programação e a ciência da computação para que eu possa programar de fato e, assim, me possibilitar a aprender a sintaxe de qualquer linguagem e programar na mesma.**
 Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(SCRUM), P.O.O, A.O.O (UML), além de experiências teoricas em Interação Humano-Computador UX UI, Engenharia/Qualidade de Software, Redes de Computadores  estou explorando também a área de Dados.
 
-💼 Experiência com desenvolvimento de scripts em **LUA** para o jogo Roblox e em projetos acadêmicos utilizando **Java - Spring e Python**.
-
-🎯 Meu objetivo é encontrar uma oportunidade como Desenvolvedor Back_End e Dados, além de me aprofundar nos estudos.
+🎯 Meu objetivo é encontrar uma oportunidade como Desenvolvedor Back_End, além de me aprofundar nos estudos.
 
 ---
 
@@ -89,19 +87,6 @@ Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(
 
 <br clear="both">
 
-
-### 💼 Experiência Profissional:
-
-- **Trainee de Auxiliar da COLINF** | IFS - Aracaju (2025 - Atualmente):
-Suporte técnico e operacional nos laboratórios de informática, garantindo o funcionamento de hardware e software. 
-Apoio a alunos e professores no uso dos recursos tecnológicos disponíveis.
-  
-- **Desenvolvedor Java e Spring** - IFS Aracaju (2024 - 2027):
-  Projetos acadêmicos de desenvolvimento de software com Java e Spring Boot.
-
-- **Desenvolvedor de Scripts em LUA** no jogo Roblox (2020 - 2023):
-  Criação de funcionalidades no ambiente Roblox utilizando a linguagem LUA.
----
 
 ## 🌐 Contato:
 
