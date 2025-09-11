@@ -49,6 +49,12 @@ Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(
 
 🎯 Meu objetivo é encontrar uma oportunidade como Desenvolvedor Back_End, além de me aprofundar nos estudos.
 
+## Principais projetos
+
+1- [AcademySmart](https://github.com/Stanly1BR/projetoAcademy)
+2- [SmartMed](https://github.com/Stanly1BR/SmartMed)
+3- [A.O.O](https://github.com/Stanly1BR/2025.1_AOO_AV)
+
 ---
 
 <div>
