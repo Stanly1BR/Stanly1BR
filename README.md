@@ -51,7 +51,7 @@ Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(
 
 ## Principais projetos
 
-1- [AcademySmart](https://github.com/Stanly1BR/projetoAcademy)
+1- [AcademySmart](https://github.com/Stanly1BR/AcademySmart)
 2- [SmartMed](https://github.com/Stanly1BR/SmartMed)
 3- [A.O.O](https://github.com/Stanly1BR/2025.1_AOO_AV)
 
