@@ -38,17 +38,6 @@
 
 <div align="left">
 
-## Sobre Mim
-
-🎓 Atualmente cursando 4 período em **Análise e Desenvolvimento de Sistemas** no IFS (Instituto Federal de Sergipe), com início em 01/2024 e previsão de conclusão em 04/2027.
-
-💻 Tenho especialização em **Backend** através de bootcamps na DIO e base em **Gestão de Projetos**, adquirida em cursos como **Gestão de Empreendimentos Econômicos Solidários**.
-Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos.
-**Busco aprender mais a lógica da programação e a ciência da computação para que eu possa programar de fato e, assim, me possibilitar a aprender a sintaxe de qualquer linguagem e programar na mesma.**
-Tenho experiências praticas com Spring boot, Banco de Dados, Metodologia Ágil(SCRUM), P.O.O, A.O.O (UML), além de experiências teoricas em Interação Humano-Computador UX UI, Engenharia/Qualidade de Software, Redes de Computadores  estou explorando também a área de Dados.
-
-🎯 Meu objetivo é encontrar uma oportunidade como Desenvolvedor Back_End, além de me aprofundar nos estudos.
-
 ## Principais projetos
 
 1- [AcademySmart](https://github.com/Stanly1BR/AcademySmart)
