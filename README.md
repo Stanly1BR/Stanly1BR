@@ -1,11 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
-
 <p align="center">
   <img src="Imagens/Semttulo.gif" width="200" alt="Meu GIF">
 </p>
-
-
 
 <div align="center">
   <p>Contate-me:</p>
@@ -18,71 +15,106 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Eu+sou+Desenvolvedor+Back-End;Seja+Bem-Vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Eu+sou+Desenvolvedor+Full-Stack;Seja+Bem-Vindo!" alt="Typing SVG"/>
 </div>
 
 <br>
 
-
 <details align="center">  
   <summary>
-      <samp>
-        <b>Mais Informações</b>
-      </samp>
+    <samp>
+      <b>🎯 Mais Informações</b>
+    </samp>
   </summary>
-  
-  <!-- CONTEÚDO ESCONDIDO -->
 
+<br>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0D2&width=500&height=80&lines=Ol%C3%A1%2C+Me+chamo+STANLY+ALMEIDA+DO+CARMO)](https://git.io/typing-svg)
 
 <div align="left">
 
+## 📊 Estatísticas do GitHub
+
 <div>
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Stanly1BR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats do Stanly"/>
   <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanly1BR&theme=tokyonight&custom_title=Principais+Linguagens&langs_count=6" alt="Top Langs do Stanly"/>
 </div>
+
 <br clear="both">
 
 <div>
-        <picture align="center">
-            <source media="(prefers-color-scheme: dark)"            srcset="https://raw.githubusercontent.com/Stanly1BR/Stanly1BR/output/github-contribution-grid-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stanly1BR/Stanly1BR/output/github-contribution-grid-snake-dark.svg">
-            <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Stanly1BR/Stanly1BR/output/github-contribution-grid-snake.svg">
-        </picture>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stanly1BR/Stanly1BR/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stanly1BR/Stanly1BR/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Stanly1BR/Stanly1BR/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-## 🚀 Habilidades e Proficiências
+## 🚀 Habilidades e Tecnologias
 
 <img src="https://media.tenor.com/QhRvvwpCdVoAAAAj/rocket.gif" alt="Foguete voando" width="200" align="right">
 
-### 🖥️ Linguagens de Programação:
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 💻 **Back-End:**
+#### **Linguagens:**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-### 🛠️ Frameworks:
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
+#### **Frameworks:**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-### 🛠️ Ferramentas:
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) - ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) - ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+#### **Banco de Dados:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🎨 **Front-End:**
+#### **Tecnologias Principais:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+#### **Frameworks e Bibliotecas:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ Banco de Dados:
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white) - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) - ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+### 🛠️ **Ferramentas:**
+#### **Desenvolvimento:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### **IDEs:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+#### **Design e Gestão:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br clear="both">
 
+## 📈 Projetos em Destaque
 
-## 🌐 Contato:
+### 🔧 **Back-End:**
+- **[AcademySmart](https://github.com/Stanly1BR/AcademySmart)** - Sistema de gestão para academias
+- **[SmartMed API](https://github.com/Stanly1BR/SmartMed)** - API para clínica médica
 
-- **LinkedIn**: [Stanly Almeida Do Carmo](https://www.linkedin.com/in/stanly-almeida-do-carmo/)
-- **E-mail**: stanlyalmeidabr@gmail.com
+### 🎨 **Full-Stack:**
+- **[Portfólio Stanly.dev](https://github.com/Stanly1BR/Portfolio)** - Meu portfólio pessoal responsivo
 
----
+## 📫 **Contato:**
 
-👨‍💻 Apaixonado por tecnologia e aprendizado contínuo. Sinta-se à vontade para explorar meus projetos e colaborar!
+- **📧 E-mail**: [stanlyalmeidabr@gmail.com](mailto:stanlyalmeidabr@gmail.com)
+- **💼 LinkedIn**: [Stanly Almeida Do Carmo](https://www.linkedin.com/in/stanly-almeida-do-carmo/)
+- **📍 Localização**: Aracaju, SE - Brasil
+
+🚀 **"Code is like humor. When you have to explain it, it's bad."**
 
 </div>
 </details>
