@@ -38,14 +38,6 @@
 
 <div align="left">
 
-## Principais projetos
-
-1- [AcademySmart](https://github.com/Stanly1BR/AcademySmart)
-2- [SmartMed](https://github.com/Stanly1BR/SmartMed)
-3- [A.O.O](https://github.com/Stanly1BR/2025.1_AOO_AV)
-
----
-
 <div>
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Stanly1BR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats do Stanly"/>
   <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanly1BR&theme=tokyonight&custom_title=Principais+Linguagens&langs_count=6" alt="Top Langs do Stanly"/>
