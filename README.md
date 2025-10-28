@@ -110,7 +110,6 @@
 
 ## 📫 **Contato:**
 
-- **📧 E-mail**: [stanlyalmeidabr@gmail.com](mailto:stanlyalmeidabr@gmail.com)
 - **💼 LinkedIn**: [Stanly Almeida Do Carmo](https://www.linkedin.com/in/stanly-almeida-do-carmo/)
 - **📍 Localização**: Aracaju, SE - Brasil
 
