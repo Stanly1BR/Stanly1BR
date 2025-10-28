@@ -99,14 +99,7 @@
 
 <br clear="both">
 
-## 📈 Projetos em Destaque
-
-### 🔧 **Back-End:**
-- **[AcademySmart](https://github.com/Stanly1BR/AcademySmart)** - Sistema de gestão para academias
-- **[SmartMed API](https://github.com/Stanly1BR/SmartMed)** - API para clínica médica
-
-### 🎨 **Full-Stack:**
-- **[Portfólio Stanly.dev](https://github.com/Stanly1BR/Portfolio)** - Meu portfólio pessoal responsivo
+## 📈 [Portfólio Stanly.dev](https://stanly1br.github.io/Portfolio/)** - Meu portfólio pessoal responsivo
 
 ## 📫 **Contato:**
 
