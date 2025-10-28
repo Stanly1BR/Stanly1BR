@@ -99,7 +99,7 @@
 
 <br clear="both">
 
-## 📈 [Portfólio Stanly.dev](https://stanly1br.github.io/Portfolio/)** - Meu portfólio pessoal responsivo
+## 📈 [Portfólio Stanly.dev](https://stanly1br.github.io/Portfolio/) - Meu portfólio pessoal responsivo
 
 ## 📫 **Contato:**
 
