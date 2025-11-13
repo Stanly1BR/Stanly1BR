@@ -33,12 +33,6 @@
 
 <div align="left">
 
-## 📊 Estatísticas do GitHub
-
-<div>
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Stanly1BR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats do Stanly"/>
-  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanly1BR&theme=tokyonight&custom_title=Principais+Linguagens&langs_count=6" alt="Top Langs do Stanly"/>
-</div>
 
 <br clear="both">
 
